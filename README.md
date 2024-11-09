@@ -1,3 +1,5 @@
+Functionality of development with neo4j is still under develeopmennt. Rest all virtues have been touched and the model is giving good responses.
+
 One-Day Tour Planning Assistant
 
 Description
